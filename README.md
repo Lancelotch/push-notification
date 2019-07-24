@@ -1,2 +1,2 @@
 # push-notification
-Push Notifications Using Node.js &amp; Service Worker
+Make a simple Push Notifications Using Node.js &amp; Service Worker
